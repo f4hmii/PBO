@@ -1,0 +1,6 @@
+com/mvcdb/controller/UserController.class
+com/mvcdb/model/User.class
+module-info.class
+com/mvcdb/model/UserDAO.class
+com/mvcdb/MainApp.class
+com/mvcdb/database/DatabaseConnection.class
